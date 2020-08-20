@@ -1,0 +1,6 @@
+projeto criando com yarn create react-app
+eslint e prettier não funcionando
+
+Eslint + hooks
+
+>> yarn add eslint-plugin-react-hooks -D
